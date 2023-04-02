@@ -1,3 +1,6 @@
+# Data and download
+download/**/*
+
 # Miscellaneous
 *.class
 *.log
